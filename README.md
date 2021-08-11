@@ -1,2 +1,2 @@
-# ngantok
-Ngantok.sh
+#ngantok
+ngantok.sh
