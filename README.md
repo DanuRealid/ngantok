@@ -1,2 +1,0 @@
-#ngantok
-ngantok.sh
